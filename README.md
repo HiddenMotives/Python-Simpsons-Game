@@ -13,10 +13,15 @@ A turn elapses when: Homer moves or you (the player) try to move him
 (Homer ignores the command or the player tries to move Homer onto a building), 
 Homer stays on the same square (direction 5)
 
-### Usage
+### Download
 
     git clone https://github.com/basprohop/Python-Simpsons-Game
-    python3 Python-Simpsons-Game/simpsons.py
+
+
+### Usage
+
+    ~$: cd Python-Simpsons-Game/
+    ~$: python3 ./simpsons.py
 
 
 ###### The Simpsons is copyright Twentieth Century Fox Film Corporation and is not affiliated with this little game. All trademarks are the property of their respective owners. ######
