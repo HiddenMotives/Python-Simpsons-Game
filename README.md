@@ -16,7 +16,7 @@ Homer stays on the same square (direction 5)
 ### Usage
 
     git clone https://github.com/basprohop/Python-Simpsons-Game
-    python3 ./simpsons.py
+    python3 Python-Simpsons-Game/simpsons.py
 
 
-###### The Simpsons is copyright Twentieth Century Fox Film Corporation and is not affiliated with this little game. ######
+###### The Simpsons is copyright Twentieth Century Fox Film Corporation and is not affiliated with this little game. All trademarks are the property of their respective owners. ######
